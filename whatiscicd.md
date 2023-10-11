@@ -25,4 +25,3 @@ Gitlab CI/CD, CircleCI, Azure Devops
 - Open Source
 - Large Community 
 - Vast Library of Plugins
-hesfass
