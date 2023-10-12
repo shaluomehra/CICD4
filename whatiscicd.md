@@ -8,7 +8,7 @@ CD is like a super-fast delivery service. It means that once code is ready, it a
 
 Open Source, automation software. It helps automate parts of the software development process, like building, testing, and deploying code
 
-# Stages of Jenkis
+# Stages of Jenkins
 
 - Checkout: Get the latest code from a version control system like Git.
 - Build: Turn the code into a working program or application.
