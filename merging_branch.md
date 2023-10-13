@@ -34,7 +34,7 @@ We are going to be merging the dev branch with the main branch
 
 ### Push to GITHUB if successful
 
-Here we use Git Publisher, to merge the results if the test is successful
+Here we use Git Publisher to merge the results if the test is successful
 
 ![Screenshot 2023-10-12 121105.png](images_3%2FScreenshot%202023-10-12%20121105.png)
 

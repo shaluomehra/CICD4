@@ -32,7 +32,7 @@ Scroll down to **Source Code Management**
 ![Screenshot 2023-10-11 164432.png](images_2%2FScreenshot%202023-10-11%20164432.png)
 - Copy and paste your SSH form of your repo in the Repo URL
 - Select your private SSH key
-- Change the branch to main
+- Change the branch to main,
 
 Scroll down to **Build Triggers**
 
